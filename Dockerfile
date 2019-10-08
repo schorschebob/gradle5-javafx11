@@ -1,4 +1,4 @@
-FROM openjdk:13-jdk-oracle
+FROM openjdk:11-jdk-oracle
 
 CMD ["gradle"]
 
